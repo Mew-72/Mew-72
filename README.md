@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C/C++ and Python from Harvard's cs50p
 - 📫 You can reach out to me directly on github
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't there is any...:)
+- ⚡ Fun fact: I don't think there is any...:)
 
 <!---
 Mew-72/Mew-72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
