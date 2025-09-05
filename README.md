@@ -14,7 +14,8 @@ Frontend + Python enthusiast building in public — I enjoy crafting clean, resp
   - Repo: [Mew-72/CVLens](https://github.com/Mew-72/CVLens)  
   - Focus: JavaScript, rules/pattern matching, instant feedback, Vercel deployment
 
-- 🎨 AwwardsSite — UI/animation experiments inspired by award‑winning web designs  
+- 🎨 AwwardsSite — UI/animation experiments inspired by award‑winning web designs
+  - Live: https://spylt-gsap-one.vercel.app 
   - Repo: [Mew-72/AwwardsSite](https://github.com/Mew-72/AwwardsSite)  
   - Focus: CSS‑first layouts, interaction polish
 
