@@ -1,78 +1,121 @@
-# Hey, I’m Mayank Kumar (aka Mew-72) 👋
+<div align="center">
 
-Frontend + Python enthusiast building in public — I enjoy crafting clean, responsive UIs and practical tools that solve real problems. Currently leveling up web fundamentals and shipping small projects along the way.
+  <img src="https://github.com/Mew-72.png" width="120" style="border-radius: 50%;" alt="Mayank Kumar"/>
 
-![Followers](https://img.shields.io/github/followers/Mew-72?style=flat&label=Followers)
-![Stars](https://img.shields.io/github/stars/Mew-72?style=flat&label=Stars)
+  <h1>Mayank Kumar</h1>
 
----
+  <p><b>Frontend Engineer · Python Developer · CS Undergrad @ GITAM Bengaluru</b></p>
 
-## Highlights
+  <p>
+    I build things for the web — clean UIs, practical tools, and anything that makes someone's life a little easier.<br/>
+    Currently in my 2nd year of CS, shipping projects and leveling up fast.
+  </p>
 
-- 🚀 CVLens — Programmatic CV reviewer to match job descriptions  
-  - Live: https://cv-lens.vercel.app  
-  - Repo: [Mew-72/CVLens](https://github.com/Mew-72/CVLens)  
-  - Focus: JavaScript, rules/pattern matching, instant feedback, Vercel deployment
+  <p>
+    <a href="https://Mew-72.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://github.com/Mew-72"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://cv-lens.vercel.app"><img src="https://img.shields.io/badge/CVLens-Live-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CVLens"/></a>
+  </p>
 
-- 🎨 AwwardsSite — UI/animation experiments inspired by award‑winning web designs
-  - Live: https://spylt-gsap-one.vercel.app 
-  - Repo: [Mew-72/AwwardsSite](https://github.com/Mew-72/AwwardsSite)  
-  - Focus: CSS‑first layouts, interaction polish
+  <img src="https://komarev.com/ghpvc/?username=Mew-72&label=Profile+Views&color=4f46e5&style=flat" alt="profile views"/>
 
-- 📚 Web Dev for Beginners (learning fork)  
-  - Repo: [Mew-72/WDFB](https://github.com/Mew-72/WDFB)  
-  - Note: Fork of Microsoft’s curriculum that I use for structured learning
-
-- 🗂️ Projects (sandbox and experiments)  
-  - Repo: [Mew-72/Projects](https://github.com/Mew-72/Projects)
+</div>
 
 ---
 
-## Toolbox
+## 🧠 About Me
 
-- Languages: Python, JavaScript, HTML, CSS
-- Tools: Git, GitHub
-- Hosting: Vercel, GitHub Pages
-- Interests: Frontend engineering, UX polish, practical dev tooling
-
----
-
-## Currently
-
-- 🌱 Deepening web fundamentals (HTML/CSS/JS)
-- 🐍 Building a few Python projects (not yet pushed to GitHub)
-- 🔍 Iterating on CVLens to improve suggestions and keyword relevance
+- 🎓 **2nd-year Computer Science student** at GITAM University, Bengaluru (Sem 4)
+- 💻 I specialize in **Frontend Engineering** and **Python-based tooling**
+- 🛠️ Love building products that are both functional and visually sharp
+- 🔍 Actively looking for **internship opportunities** in software development
+- ⚡ Currently iterating on [CVLens](https://cv-lens.vercel.app) — a CV analysis tool for job seekers
+- 🌱 Learning: Advanced JavaScript, Data Structures & Algorithms, Flask
 
 ---
 
-## Find me
+## 🚀 Featured Projects
 
-- Portfolio/Pages: https://Mew-72.github.io  
-- GitHub: https://github.com/Mew-72
+### 🔬 [CVLens](https://github.com/Mew-72/CVLens) — *CV / Resume Analyzer*
+> Match your resume against job descriptions in seconds.
+
+- **What it does:** Parses CVs programmatically, scores them against a JD using rules & pattern matching, and returns instant feedback
+- **Tech:** JavaScript, Vercel, pattern matching engine
+- **Live:** [cv-lens.vercel.app](https://cv-lens.vercel.app)
+- **Why it matters:** Solves a real problem — helping job seekers tailor their resumes before applying
 
 ---
 
-### Quick Stats
+### 🎨 [AwwardsSite](https://github.com/Mew-72/AwwardsSite) — *Premium Web Animation Playground*
+> UI/animation experiments inspired by award-winning web designs.
 
-<!-- Replaced the rank letter with your avatar by hiding the rank icon and adding your profile image -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/Mew-72.png?size=120" alt="Mayank Kumar avatar" width="120" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mew-72&show_icons=true&hide_rank=true&theme=transparent" alt="GitHub stats" height="150" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mew-72&layout=compact&theme=transparent" alt="Top languages" height="150" />
-    </td>
-  </tr>
-</table>
+- **What it does:** Showcases advanced CSS layouts and smooth GSAP-powered interactions
+- **Tech:** HTML, CSS, GSAP, Vercel
+- **Live:** [spylt-gsap-one.vercel.app](https://spylt-gsap-one.vercel.app)
+- **Why it matters:** Demonstrates deep frontend craft — the kind of UI polish that separates good devs from great ones
 
-<!--
-Profile README generated from public profile data + notes:
-- Name: Mayank Kumar (Mew-72)
-- Notable repos: CVLens, AwwardsSite, WDFB (forked for learning), Projects, Mew-72.github.io
-- Skills: Python, JavaScript, HTML, CSS; Hosting: Vercel, GitHub Pages
-- Status: Working on Python projects not yet published
--->
+---
+
+### 🗂️ [Projects Sandbox](https://github.com/Mew-72/Projects)
+> Experiments, utilities, and mini-tools I build while learning.
+
+- A rolling collection of small but real projects — from Python scripts to web utilities
+- Where ideas go before they become full products
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Mew-72&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mew-72&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mew-72&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+---
+
+## 📌 Currently
+
+```text
+🔨  Improving CVLens — better keyword matching + AI-powered suggestions
+📖  Studying DSA + OS for placement prep
+🐍  Building unreleased Python tools (coming soon to GitHub)
+🎯  Targeting software internships for Summer 2026
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **internship opportunities**, project collabs, or just a good tech conversation.
+
+<p>
+  <a href="https://Mew-72.github.io">🌐 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Mew-72">💻 GitHub</a>
+</p>
+
+<div align="center">
+  <sub>Made with ☕ and late nights by Mayank Kumar</sub>
+</div>
